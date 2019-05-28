@@ -1,5 +1,15 @@
 # v2ray
-最好用的 V2Ray 一键安装脚本 &amp; 管理脚本
+最好用的 V2Ray 一键安装脚本 &amp; 管理脚本<br>
+直接输入安装命令：
+
+```
+
+git clone https://github.com/Pinanchen/V2ray-auto -b master
+cd V2ray-auto
+chmod +x install.sh
+./install.sh local
+
+```
 
 ## 脚本说明
 [V2Ray 一键安装脚本](https://github.com/233boy/v2ray/wiki/V2Ray%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85%E8%84%9A%E6%9C%AC)
